@@ -310,7 +310,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NfcNci \
     Tag \
-    android.hardware.nfc@1.2-service.pn8x \
     com.android.nfc_extras
 
 # NFC/SE configs
@@ -386,7 +385,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libkeystore-wifi-hidl:64 \
     libkeystore-engine-wifi-hidl:64 \
-    android.hardware.wifi@1.0-service-lazy \
     wpa_supplicant \
     hostapd
 
